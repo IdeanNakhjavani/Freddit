@@ -1,11 +1,6 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6211827&assignment_repo_type=AssignmentRepo)
-# The COSC 360 Project
-
-**Due Dates:** See Milestone Dates
 
 # Overview:
-The project is designed to help develop your skills for full stack development.  With this project, you will build an online application that will allow users to register, create and participate in different features of your site. **The project is a group project of 2 to 3 people**.   Please note that the grading rubric for different aspects of the project.  
-
+The project is designed to help develop your skills for full stack development.  With this project, you will build an online application that will allow users to register, create and participate in different features of your site.
 # Hardware and Software: 
 
 You will develop the project using Linux, MySQL, Apache and PHP on cosc360.ok.ubc.ca,in addition to CSS, HTML5 and JavaScript on the client-side.  **The backend must be completed with PHP**.  Your project will be stored in the class provided repository and will deployed to the cosc360 server.  The project must be accessible on the UBC network and all source code must be available for review.  You are required to keep your code under version control with GIT.
