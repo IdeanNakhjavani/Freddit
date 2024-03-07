@@ -1,5 +1,5 @@
-# Name of Website - Kelowna Talks
-# A Reddit-style interface
+# Kelowna Talks
+**A Reddit-style interface**
 
 A public forum discussing all things related to Kelowna. Kelowna’s social media platform to discuss recent news, sites to see, upcoming events, and business of Kelowna. Our forum will have features such as live weather updates, maps of locations and Kelowna sports updates. Registered users will be able to create forum posts including texts, images and links under different subsections of the website corresponding to different topics. Registered users will also be able to engage in conversation regarding each forum post via a comment section which will be publicly visible to all users of the website. Each subsection will also include a main (pinned) forum post created by Kelowna Talks for discussing the general main topics and FAQ of each of the subsections; this could also act as the method of communication during live events regarding that subsection.
  
